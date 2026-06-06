@@ -17,6 +17,6 @@ configMapGenerator:
 images:
 - name: ghcr.io/aboft/aboftybot-go
   newName: ghcr.io/aboft/aboftybot-go
-  newTag: main-de51c6d
+  newTag: main-ca254bb
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
